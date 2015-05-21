@@ -1,1 +1,1 @@
-# Twitter_Anal_date
+# Mapreduce program to analyze the twitter feeds in a text file to know the average time when there are more tweets for a particular tweets ie,average time when the users are tweeting about a hashtag a lot.
